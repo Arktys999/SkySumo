@@ -1,6 +1,6 @@
 # SkySumo
 
-Made By: Arktys & ChaoticPyxel (Follow us on YouTube)
+Made By: Arktys & ChaoticPyxel (Subscribe to us on YouTube)
 
 This is the required world and resource pack to play sky sumo.
 
